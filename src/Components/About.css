@@ -1,0 +1,15 @@
+.wrapper {
+  position: relative;
+}
+
+.text {
+  background-color: transparent;
+  color: white;
+  position: absolute;
+  text-align: center;
+  top: 20%;
+  width: 100%;
+  line-height: 3rem;
+  padding-left: 10vw;
+  padding-right: 10vw;
+}
